@@ -1,0 +1,57 @@
+{
+  "eleven_multilingual_sts_v2": {
+    "unit": "second",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "voice-clone": {
+    "unit": "clip",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "bytedance/seedance-2-5": {
+    "unit": "second",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "kling-3.0/motion-control": {
+    "unit": "second",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "kling-3.0/video": {
+    "unit": "second",
+    "usd": 0.07,
+    "checked": "2026-10-30"
+  },
+  "nano-banana-pro": {
+    "unit": "image",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "nano-banana-2-1": {
+    "unit": "image",
+    "usd": 0.02,
+    "checked": "2026-10-30"
+  },
+  "ai-music-api/generate": {
+    "unit": "clip",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "ai-music-api/upload-and-extend-audio": {
+    "unit": "clip",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "ai-music-api/replace-section": {
+    "unit": "clip",
+    "usd": null,
+    "checked": "YYYY-MM-DD"
+  },
+  "grok-imagine-video-1-5-preview": {
+    "unit": "second",
+    "usd": 0.0225,
+    "checked": "2026-10-30"
+  }
+}

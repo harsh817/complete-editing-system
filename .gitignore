@@ -1,0 +1,23 @@
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+# Client projects and generated assets
+/ads/
+/reference_reel.mp4
+/reference_reel_analysis/
+# Retained legacy source
+/.claude/
+/CLAUDE.md
+/claude-code-editing-system/
+# Local caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+*.log
+*.tmp
+/.publish/
+/FEATURE_DELIVERY.md
